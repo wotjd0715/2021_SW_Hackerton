@@ -1,6 +1,6 @@
 # 2021_SW_Hackerton
 ### _Brainai_ - _LMS Helper_
-![title](https://user-images.githubusercontent.com/69957743/126700568-66ccd589-fb56-424b-8375-af402c7b100f.PNG)
+
 
 ### Members 
 |Name|github_ID|
