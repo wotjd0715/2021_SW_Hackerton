@@ -11,7 +11,7 @@
 |장현진|nowwhy|
 
 코로나로 변화된 대학 생활을 개선할 수 있는 창의적이고 혁신적인 소프트웨어 자유개발
-# _Brainai_ - _LMS Helper_
+# _Brainai_ - _Knudy_
 ![Knudy](https://user-images.githubusercontent.com/69957743/126726581-b4e54a3d-e8b2-409c-8ef3-67808093f148.PNG)   
 
 ## 문제점
