@@ -61,8 +61,8 @@
     
     
  ## 환경
-   -mongoDB
-   -node.js
+   -mongoDB  
+   -node.js  
    -react
     
     
