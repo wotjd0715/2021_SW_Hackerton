@@ -30,7 +30,7 @@
    해당 기능을 사용하면 모든 사용자가 수업을 들으며 질문들을 볼 수 있기에 빠른 피드백을 기대할 수 있다.
       
    ![title](https://user-images.githubusercontent.com/69957743/126738283-2f4c8cd7-a8f8-4031-a2f1-588ccf8fdc77.png)
- 
+  ![챕터](https://user-images.githubusercontent.com/69957743/126739080-515a8555-36f1-4e5f-ac23-2799faa032a1.png)
  
  #### ✅ [2. 수업에 대한 빠른 평가 ]   
    영상의 아래에 있는 "쉬워요" / "어려워요" 버튼을 통해 빠르고 간편하게 영상에 대한 평가를 남길 수 있다.  
