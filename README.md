@@ -1,8 +1,8 @@
 # 2021_SW_Hackerton
-### _Brainai_ - _LMS Helper_
+# _Brainai_ - _LMS Helper_
 
 
-### Members 
+## Members 
 |Name|github_ID|
 |------|------|
 |박재성|wotjd0715|
