@@ -29,7 +29,7 @@
       원활하지 못한 부분이 있지만,   
       해당 기능을 사용하면 모든 사용자가 수업을 들으며 질문들을 볼 수 있기에 빠른 피드백을 기대할 수 있다.
       
-      ![질문](https://user-images.githubusercontent.com/69957743/126726751-34ef50b6-bd58-476a-87c1-796188769281.png)
+      ![질문](https://user-images.githubusercontent.com/69957743/126738283-2f4c8cd7-a8f8-4031-a2f1-588ccf8fdc77.png)
  
  
  #### ✅ [2. 수업에 대한 빠른 평가 ]   
