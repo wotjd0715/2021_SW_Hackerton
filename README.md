@@ -1,5 +1,5 @@
 # 2021_SW_Hackerton   
-![title]([https://user-images.githubusercontent.com/69957743/126700568-66ccd589-fb56-424b-8375-af402c7b100f.PNG](https://user-images.githubusercontent.com/69957743/126700568-66ccd589-fb56-424b-8375-af402c7b100f.PNG))   
+![공부](https://user-images.githubusercontent.com/69957743/126737523-4f9aa2df-e0b2-433e-96ae-7472722a1428.PNG)
 
 ### - 팀명: BrainAI
 ### - 팀원
