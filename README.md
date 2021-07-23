@@ -54,6 +54,10 @@
     따라서 **Knudy** 의 기능을 이용하여 대면수업과 비대면 수업 사이 간극을 좁힐 수 있을 것이다.
     
     
+ ## 시연영상
+    https://youtu.be/9_VDJiImDeQ
+    
+    
  ## 환경
     -mongoDB
     -node.js
